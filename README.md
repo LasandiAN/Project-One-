@@ -1,4 +1,4 @@
 # Project-One-
 I made this project to hone my skills in studying at dimbibing.id and to show my interest in data science
 ## Descripe The project
-this project is to analyze the effect of parental level of education parents on the value of their children's lessons
+this project is to analyze the effect of parental level of education parents and the student take test preparation or not on the value of their children's lessons
